@@ -1,12 +1,11 @@
-title: pacroy.github.io
+title: Par's GitHub Pages
 description: Visit my latest wiki at wiki.pacroy.com
 show_downloads: false
 google_analytics: UA-89685926-4
-theme: jekyll-theme-cayman
 blog_url: https://pacroy.com
 github: 
   is_project_page: true
   repository_url: https://github.com/pacroy/pacroy.github.io
-  repository_name: wiki.pacroy.com
+  repository_name: pacroy.github.io
   owner_url: https://github.com/pacroy/
   owner_name: Chairat (Par)
