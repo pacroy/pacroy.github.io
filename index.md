@@ -1,8 +1,5 @@
----
-layout: default
----
+# Par's GitHub Pages
 
-## Sections
 - [ABAP](abap)
   - [How to Enable SSL on NetWeaver Application Server](abap/ssl)
 - [DevOps](devops)
