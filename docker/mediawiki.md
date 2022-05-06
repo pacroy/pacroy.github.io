@@ -82,7 +82,7 @@ To get email function work within Wiki, please proceed the following:
 ```
 $wgSMTP = array(
 	'host'     => "mediawiki-smtp", // could also be an IP address. Where the SMTP server is located
-	'IDHost'   => "chairat.me",     // Generally this will be the domain name of your website (aka mywiki.org)
+	'IDHost'   => "pacroy.com",     // Generally this will be the domain name of your website (aka mywiki.org)
 	'port'     => 25,               // Port to use when connecting to the SMTP server
 	'auth'     => false             // Should we use SMTP authentication (true or false)
    );

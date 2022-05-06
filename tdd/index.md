@@ -82,7 +82,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Test-driven_development#TDD_an
 ## Recommended Read
 
 - [Test Driven Development: 15 years later](https://goo.gl/VfkjmV) by Petr Jasek, Department of Computer Science, Aalborg University
-- [TDD from book 'Scrum and XP from the Trenches'](http://wiki.chairat.me/scrum/#wiki-toc-test-driven-development-tdd) by Henrik Kniberg
+- [TDD from book 'Scrum and XP from the Trenches'](http://wiki.pacroy.com/scrum/#wiki-toc-test-driven-development-tdd) by Henrik Kniberg
 - [Key Test Design Techniques](https://s3-ap-southeast-1.amazonaws.com/pacroy/Key+Test+Design+Techniques.pdf) by Lee Copeland, Software Quality Engineering - *June 5, 2014*
 
 ## Videos

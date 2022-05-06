@@ -22,5 +22,5 @@ layout: default
 
 ## My Blogs
 
-- [chairat.me](http://chairat.me)
+- [pacroy.com](http://pacroy.com)
 - [Scrum and XP from the Trenches](scrum)
